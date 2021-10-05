@@ -1,6 +1,6 @@
 ## 概念
 
-![blog-image-20211004-1633357753](D:\Desktop\Rename\blog-image-20211004-1633357753.jpg)
+![blog-image-20211004-1633357753](https://user-images.githubusercontent.com/60425532/136015025-35ae87fd-5938-481e-bdfd-9cf473c096e5.jpg)
 
 **SRT字幕格式：**
 
@@ -24,7 +24,8 @@
 1.   **将 json 文件拖入到批处理文件。**
 2.   **在 srt 文件夹中会生成 srt 文件。**
 
-![blog-image-20211005-1633433175](D:\Desktop\Rename\blog-image-20211005-1633433175.png)
+![blog-image-20211005-1633433175](https://user-images.githubusercontent.com/60425532/136015144-38669c41-fc8b-4fef-a826-41879ff08c61.png)
+
 
 ## 参考
 
