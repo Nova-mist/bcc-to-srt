@@ -1,3 +1,7 @@
+## 获取
+
+哔哩哔哩港澳台动画通常都是外挂字幕，在浏览器的调试的【网络】页面搜索 `json` 即可。
+
 ## 概念
 
 ![blog-image-20211004-1633357753](https://user-images.githubusercontent.com/60425532/136015025-35ae87fd-5938-481e-bdfd-9cf473c096e5.jpg)
